@@ -1,13 +1,13 @@
 from tkinter import *
 
 root = Tk()
-root.geometry("700x300")
+root.geometry("1080x720")
 root.title("Python Project")
 root.aspect
 Label(root, pady=15).grid(column=7)
 
-frame = LabelFrame(root,fg="grey", text="PARKING WALA", padx=10, pady=5)
-frame.grid(padx=150, pady=10)
+frame = LabelFrame(root,fg="grey", text="PARKING WALA", padx=50, pady=50)
+frame.grid(padx=250, pady=150)
 
 
 name = Label(frame, text="Name")

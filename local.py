@@ -3,7 +3,7 @@ from tkinter import messagebox
 
 
 root3 = Tk()
-root3.geometry("700x300")
+root3.geometry("1080x720")
 root3.title("Python Project")
 frame3 = LabelFrame(root3, text="PARKING WALA", padx=10, pady=5)
 frame3.grid(padx=150, pady=10)

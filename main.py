@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import messagebox
 root = Tk()
-root.geometry("700x300")
+root.geometry("1080x720")
 root.title("Python Project")
 
 photo = PhotoImage(file="23.png")

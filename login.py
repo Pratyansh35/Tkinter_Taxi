@@ -1,7 +1,7 @@
 from tkinter import *
 
 root = Tk()
-root.geometry("600x200")
+root.geometry("1080x720")
 root.title("Python Project")
 Label(root, font="comicsansms 13 bold",pady=15,).grid(column=7)
 
